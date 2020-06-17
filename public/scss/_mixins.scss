@@ -1,0 +1,73 @@
+@mixin grid($cols, $margin) {
+    float: left;
+    background: #ce3d3d;
+    margin-bottom: $margin;
+    height: 150px;
+
+    @if($cols >= 5) {
+        width: 100%;
+        margin-right: 0;
+    }
+    @else {
+        width: ((100% - (($cols - 1) * $margin)) / $cols);
+        margin-right: $margin;
+    }
+
+    &:nth-child(#{$cols}n) {
+        margin-right: 0;
+    }
+}
+@mixin px($left, $right) {
+    padding-left: $left;
+    padding-right: $right;
+}
+@mixin py($top, $bottom) {
+    padding-top: $top;
+    padding-bottom: $bottom;
+}
+@mixin mx($left, $right) {
+    margin-left: $left;
+    margin-right: $right;
+}
+@mixin my($top, $bottom) {
+    margin-top: $top;
+    margin-bottom: $bottom;
+}
+
+@mixin bgImgCover($path) {
+    background-image: url('../img/#{$path}.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+@mixin bgImgContain($path) {
+    background-image: url('../img/#{$path}.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+@mixin flexCenter() {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@mixin flexYCenter () {
+    display: flex;
+    align-items: center;
+}
+@mixin flexColCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin h1() {
+    font-size: 3em;
+    font-weight: bold;
+    span {
+        background-color: #21325B;
+        @include px(1em, 1em);
+    }
+}

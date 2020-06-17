@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dd173a5-655c-47eb-8915-d5239ab61c65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/project/core" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bwkNzYQY2Aly15yahs2XhE1aqH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\img\morilki" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\img" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\img\doors\pine" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\img\doors\oak" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\img\doors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\adminlte\img" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public\adminlte" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\public" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\app\views\layouts" />
+      <recent name="C:\Programms\OpenServer\OSPanel\domains\omega-interior.loc\app\models" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd173a5-655c-47eb-8915-d5239ab61c65" name="Default Changelist" comment="" />
+      <created>1589550507491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589550507491</updated>
+      <workItem from="1589550508735" duration="16065000" />
+      <workItem from="1589618615148" duration="26117000" />
+      <workItem from="1589705695307" duration="17538000" />
+      <workItem from="1590142998722" duration="2303000" />
+      <workItem from="1590235190851" duration="12318000" />
+      <workItem from="1590265814856" duration="1406000" />
+      <workItem from="1590321082607" duration="607000" />
+      <workItem from="1590330778924" duration="10528000" />
+      <workItem from="1590405764514" duration="18713000" />
+      <workItem from="1590493085406" duration="7588000" />
+      <workItem from="1591465671391" duration="2381000" />
+      <workItem from="1591480506257" duration="4527000" />
+      <workItem from="1591525093823" duration="2582000" />
+      <workItem from="1591966295996" duration="12801000" />
+      <workItem from="1591988712710" duration="394000" />
+      <workItem from="1591992840676" duration="39000" />
+      <workItem from="1592043501573" duration="632000" />
+      <workItem from="1592420701215" duration="1903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="950" y="182" key="#Deployment" timestamp="1590409810635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="950" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1590409810635" />
+    <state x="828" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591977189981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591977189981" />
+    <state x="942" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589565382872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="942" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589565382872" />
+    <state x="0" y="35" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589564354301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="35" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589564354301" />
+    <state x="899" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591969154967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="899" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591969154967" />
+    <state x="1093" y="412" width="447" height="261" key="ComposerInitDialogKey" timestamp="1589553245193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1093" y="412" width="447" height="261" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1589553245193" />
+    <state x="939" y="307" key="EditFileWatcherDialog" timestamp="1589558859638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="307" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589558859638" />
+    <state x="1164" y="275" key="FileChooserDialogImpl" timestamp="1592046577665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1164" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592046577665" />
+    <state x="1006" y="342" key="NewPhpClassDialog" timestamp="1591974288959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1006" y="342" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591974288959" />
+    <state x="1075" y="451" key="NewPhpFileDialog" timestamp="1591975803435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1075" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591975803435" />
+    <state x="1220" y="422" key="WebDeployment.AddServerDialog.v.1" timestamp="1589576928298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="422" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1589576928298" />
+    <state x="1055" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1592043527479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1055" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592043527479" />
+    <state x="1185" y="254" key="ftp.server.browser" timestamp="1589576948821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1185" y="254" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1589576948821" />
+    <state x="1040" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591980322993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591980322993" />
+  </component>
+</project>
